@@ -1,3 +1,4 @@
+package wwc.figuras;
 
 public abstract class Figura implements Coloreable, Geometria{
 

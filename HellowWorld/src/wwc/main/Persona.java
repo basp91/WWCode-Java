@@ -1,3 +1,4 @@
+package wwc.main;
 
 public class Persona {
 	

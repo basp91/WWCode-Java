@@ -1,5 +1,6 @@
+package wwc.figuras;
 
-public interface Coloreable {
+public interface Coloreable{
 
 	String getColor();
 	boolean isRelleno();

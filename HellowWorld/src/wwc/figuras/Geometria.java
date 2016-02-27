@@ -1,3 +1,4 @@
+package wwc.figuras;
 
 public interface Geometria {
 

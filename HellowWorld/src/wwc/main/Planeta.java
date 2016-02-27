@@ -1,3 +1,4 @@
+package wwc.main;
 
 public enum Planeta {
 	MERCURIO(3.303+23, 2.4397e6),

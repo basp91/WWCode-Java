@@ -1,3 +1,4 @@
+package wwc.figuras;
 
 public class Cuadrado extends Rectangulo {
 	
@@ -22,15 +23,15 @@ public class Cuadrado extends Rectangulo {
 		return super.getAncho();
 	}
 
-	@Override
-	public void setLargo(double largo) {
-		setLado(largo);
-	}
-
-	@Override
-	public void setAncho(double ancho) {
-		setLado(ancho);
-	}
+//	@Override
+//	public void setLargo(double largo) {
+//		this.setLado(largo);
+//	}
+//
+//	@Override
+//	public void setAncho(double ancho) {
+//		this.setLado(ancho);
+//	}
 
 	@Override
 	public String toString() {
